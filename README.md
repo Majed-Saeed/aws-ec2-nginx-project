@@ -21,5 +21,11 @@ A virtual server was created on AWS, configured with Ubuntu, and used to deploy 
 ## Result
 The website is live and accessible via public IP.
 
+## Screenshots
+
+![EC2](screenshots/ec2-instance.png)
+![Website](screenshots/image.png)
+![Nginx](screenshots/nginx-running.png)
+
 ## Author
 Maged Saeed
