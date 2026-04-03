@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Maged Saeed</title>
+</head>
+<body style="background-color:#0a192f; color:white; font-family:Arial;">
+
+    <h1 style="color:#4fc3f7;">Maged Saeed</h1>
+    <p>Cloud & DevOps</p>
+
+    <h2 style="color:#00c853;">About</h2>
+    <p>Cloud Computing and DevOps.</p>
+
+    <h2 style="color:#00c853;">Project</h2>
+    <p>AWS EC2 server with Ubuntu and Nginx.</p>
+
+    <h2 style="color:#00c853;">Skills</h2>
+    <p>AWS EC2</p>
+    <p>Linux (Ubuntu)</p>
+    <p>Nginx</p>
+
+</body>
+</html>
